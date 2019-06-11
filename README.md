@@ -3,7 +3,7 @@
 How to use this app?
 Simple get the link to the image you want to convert to ASCII.
 Copy that link.
-Open the app and insert that likn you copied when prompted for it.
+Open the app and insert that link you copied when prompted for it.
 Hit enter and viola!
 
 # Example
